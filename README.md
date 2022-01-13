@@ -1,7 +1,1 @@
 # katacoda-scenarios
-
-
-teste
-
-
-ds
